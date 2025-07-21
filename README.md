@@ -2,7 +2,8 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manojmadukal/)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://madukalmanoj.github.io/Manoj_portfolio/)
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white)](https://medium.com/@madukalmanoj)
+[![Medium Badge](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white)](https://medium.com/@madukalmanoj)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/madukalmanoj/)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Madukalmanoj.Madukalmanoj)
 
@@ -14,7 +15,7 @@ Currently crafting intelligent systems to solve real-world problems that matter.
 **Talking about Personal Stuffs:**
 
 - 🌾 Currently building **FasalShield** — a GenAI-powered multimodal advisor for smallholder farmers in India, fusing satellite imagery, hyper-local weather, and WhatsApp inputs to deliver proactive, regional crop guidance.
-- 📚 Currently learning **Data Structures & Algorithms on LeetCode** and diving deep into **Transformer models**.
+- 📚 Practicing **Data Structures & Algorithms** on [LeetCode](https://leetcode.com/u/madukalmanoj/) and exploring **Transformer models** in depth.
 - 💬 Ask me about anything — AI, ML, CV, hackathons, GenAI, or just life as a developer!
 - ✍️ Writing on [Medium](https://medium.com/@madukalmanoj) about AI + Projects.
 - 📫 Reach me: **madukalmanoj@gmail.com**
