@@ -133,7 +133,7 @@ I write about what I actually build — not rehashed tutorials.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojmadukal/)
-[![Portfolio](https://madakalmanoj-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://madakalmanoj-portfolio.vercel.app/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@madukalmanoj)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/madukalmanoj/)
 [![Email](https://img.shields.io/badge/madukalmanoj%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madukalmanoj@gmail.com)
